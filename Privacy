@@ -1,0 +1,66 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <title></title>
+  <meta name="Generator" content="Cocoa HTML Writer">
+  <meta name="CocoaVersion" content="2685.4">
+  <style type="text/css">
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 10.2px 'Avenir Next'; color: #b23e4f; -webkit-text-stroke: #b23e4f}
+    p.p3 {margin: 0.0px 0.0px 12.6px 0.0px; font: 12.6px 'Avenir Next'; color: #5b3e4d; -webkit-text-stroke: #5b3e4d}
+    p.p5 {margin: 0.0px 0.0px 12.0px 0.0px; font: 12.0px 'Avenir Next'; color: #2e1622; -webkit-text-stroke: #2e1622}
+    li.li6 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px 'Avenir Next'; color: #2e1622; -webkit-text-stroke: #2e1622}
+    span.s1 {font-kerning: none; background-color: rgba(255, 255, 255, 0.9)}
+    span.s2 {background-color: rgba(255, 255, 255, 0.9); -webkit-text-stroke: 0px #000000}
+    span.s3 {font-kerning: none}
+    ul.ul1 {list-style-type: disc}
+  </style>
+</head>
+<body>
+<p class="p1"><span class="s1"><b>CYCLESYNC</b><b></b></span></p>
+<h1 style="margin: 0.0px 0.0px 12.0px 0.0px; font: 40.0px 'Avenir Next'; color: #2e1622; -webkit-text-stroke: #2e1622"><span class="s1"><b>Privacy Policy</b><b></b></span></h1>
+<p class="p3"><span class="s1">Last updated: April 14, 2026</span></p>
+<h2 style="margin: 0.0px 0.0px 12.0px 0.0px; font: 14.4px 'Avenir Next'; color: #b23e4f; -webkit-text-stroke: #b23e4f"><span class="s1"><b>Overview</b><b></b></span></h2>
+<p class="p5"><span class="s1">CycleSync is designed to store your cycle profile, reminders, and daily logs locally on your device.</span></p>
+<h2 style="margin: 0.0px 0.0px 12.0px 0.0px; font: 14.4px 'Avenir Next'; color: #b23e4f; -webkit-text-stroke: #b23e4f"><span class="s1"><b>Data We Handle</b><b></b></span></h2>
+<p class="p5"><span class="s1">CycleSync may store the following information on-device:</span></p>
+<ul class="ul1">
+  <li class="li6"><span class="s2"></span><span class="s1">Cycle profile details such as last period start date, cycle length, and period length</span></li>
+  <li class="li6"><span class="s2"></span><span class="s1">Daily check-in details such as flow, mood, energy, cramps, sleep, workouts, and notes</span></li>
+  <li class="li6"><span class="s2"></span><span class="s1">Reminder preferences</span></li>
+  <li class="li6"><span class="s2"></span><span class="s1">Product feedback entries and local product journal notes</span></li>
+  <li class="li6"><span class="s2"></span><span class="s1">Local analytics events used only inside the app to understand feature usage within this build</span></li>
+</ul>
+<h2 style="margin: 0.0px 0.0px 12.0px 0.0px; font: 14.4px 'Avenir Next'; color: #b23e4f; -webkit-text-stroke: #b23e4f"><span class="s1"><b>How Data Is Used</b><b></b></span></h2>
+<p class="p5"><span class="s1">CycleSync uses this information to:</span></p>
+<ul class="ul1">
+  <li class="li6"><span class="s2"></span><span class="s1">Estimate cycle phase and related trends</span></li>
+  <li class="li6"><span class="s2"></span><span class="s1">Show reminders and daily recommendations</span></li>
+  <li class="li6"><span class="s2"></span><span class="s1">Display your history in the app</span></li>
+  <li class="li6"><span class="s2"></span><span class="s1">Support optional local product-review tools such as feedback exports</span></li>
+</ul>
+<h2 style="margin: 0.0px 0.0px 12.0px 0.0px; font: 14.4px 'Avenir Next'; color: #b23e4f; -webkit-text-stroke: #b23e4f"><span class="s1"><b>Data Sharing</b><b></b></span></h2>
+<p class="p5"><span class="s1">CycleSync does not automatically send cycle logs, symptom logs, or notes to a remote server in this build.</span></p>
+<p class="p5"><span class="s1">If you choose to export text from the app or open an external feedback board link, you decide whether to share information outside the app.</span></p>
+<h2 style="margin: 0.0px 0.0px 12.0px 0.0px; font: 14.4px 'Avenir Next'; color: #b23e4f; -webkit-text-stroke: #b23e4f"><span class="s1"><b>Tracking</b><b></b></span></h2>
+<p class="p5"><span class="s1">CycleSync does not track you across apps or websites.</span></p>
+<h2 style="margin: 0.0px 0.0px 12.0px 0.0px; font: 14.4px 'Avenir Next'; color: #b23e4f; -webkit-text-stroke: #b23e4f"><span class="s1"><b>Third Parties</b><b></b></span></h2>
+<p class="p5"><span class="s1">CycleSync may open external links you choose to visit, such as a browser-based feedback board. Those destinations have their own privacy practices.</span></p>
+<h2 style="margin: 0.0px 0.0px 12.0px 0.0px; font: 14.4px 'Avenir Next'; color: #b23e4f; -webkit-text-stroke: #b23e4f"><span class="s1"><b>Notifications</b><b></b></span></h2>
+<p class="p5"><span class="s1">If you enable reminders, CycleSync uses local notification permissions to send daily check-in reminders and period reminder alerts you choose to receive.</span></p>
+<h2 style="margin: 0.0px 0.0px 12.0px 0.0px; font: 14.4px 'Avenir Next'; color: #b23e4f; -webkit-text-stroke: #b23e4f"><span class="s1"><b>Health Disclaimer</b><b></b></span></h2>
+<p class="p5"><span class="s1">CycleSync provides general wellness education only. It is not medical advice, diagnosis, treatment, or contraception guidance.</span></p>
+<p class="p5"><span class="s1">Cycle predictions are estimates and may be inaccurate. If you have severe, unusual, or worsening symptoms, or need medical guidance, consult a licensed clinician.</span></p>
+<h2 style="margin: 0.0px 0.0px 12.0px 0.0px; font: 14.4px 'Avenir Next'; color: #b23e4f; -webkit-text-stroke: #b23e4f"><span class="s1"><b>Your Choices</b><b></b></span></h2>
+<ul class="ul1">
+  <li class="li6"><span class="s2"></span><span class="s1">Disable reminders</span></li>
+  <li class="li6"><span class="s2"></span><span class="s1">Clear local analytics history</span></li>
+  <li class="li6"><span class="s2"></span><span class="s1">Delete the app to remove locally stored app data from the device</span></li>
+  <li class="li6"><span class="s2"></span><span class="s1">Choose whether to export or share any text outside the app</span></li>
+</ul>
+<h2 style="margin: 0.0px 0.0px 12.0px 0.0px; font: 14.4px 'Avenir Next'; color: #b23e4f; -webkit-text-stroke: #b23e4f; background-color: #ffffff; background-color: rgba(255, 255, 255, 0.9)"><span class="s3"><b>Contact</b></span></h2>
+<h2 style="margin: 0.0px 0.0px 12.0px 0.0px; font: 11.4px 'Avenir Next'; color: #5b3e4d; -webkit-text-stroke: #5b3e4d; background-color: #ffffff; background-color: rgba(255, 255, 255, 0.9)"><span class="s3"><b>https://CycleSync.github.io/CycleSync/privacy/</b><b></b></span></h2>
+<h2 style="margin: 0.0px 0.0px 12.0px 0.0px; font: 11.4px 'Avenir Next'; color: #5b3e4d; -webkit-text-stroke: #5b3e4d"><span class="s1">Apple Development team: CycleSync</span></h2>
+</body>
+</html>
