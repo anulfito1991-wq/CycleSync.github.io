@@ -61,7 +61,5 @@ You can:
 
 ## Contact
 
-Replace this section before publishing:
-
 CycleSync Development team 
 CycleSync.github.io
